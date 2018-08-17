@@ -97,4 +97,6 @@ SharePrefManager.ISharedPref().username().put(name);
 String name = SharePrefManager.ISharedPref().username().get();
 ```
 
-
+#### 感谢
+参考：
+https://github.com/orhanobut/hawk
