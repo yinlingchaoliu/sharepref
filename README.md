@@ -3,6 +3,9 @@
 
 使用
 1. 引仓库
+
 maven { url 'https://jitpack.io' }
+
 2. 加依赖
-implementation 'com.github.yinlingchaoliu:sharepref:v1.0.0'
+
+implementation 'com.github.yinlingchaoliu:sharepref:1.0.0'
